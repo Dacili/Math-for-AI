@@ -1,5 +1,7 @@
 # Math for AI
-> In order to be a good with AI, you gotta be good with some specific branches of math.  
+> In order to be a good with AI, you gotta be good with some specific branches of math.
+
+> Repetitio est mater studiorum (lat.) Repetition is the mother of all learning.
 ## Concepts of mathematics:
 ### 1. Algebra
 ### 2. Linear Algebra
@@ -18,9 +20,26 @@
 Laws (rules) of radicals:  
   ![image](https://github.com/user-attachments/assets/f79ffa3d-5c38-4209-bdfa-2cb455ec4723)  
 
-- Factorials
-- Summations
-- Scientific notations
+- **Factorials** - operation of multiplying any natural number with all the natural numbers that are smaller than it. Factorial is used for questions that ask you to find how many ways you can arrange or order a set number of things.  
+  ![image](https://github.com/user-attachments/assets/fcd55b48-0527-4425-ad02-88047a894008)
+
+- **Summations** - summation is the addition of a sequence of numbers, called addends or summands; the result is their sum or total. 
+- ![image](https://github.com/user-attachments/assets/7fc453d2-8b42-4468-9cf9-222e4526fed3)  
+  
+Rules:  
+  ![image](https://github.com/user-attachments/assets/908d59f6-3f4c-4e2e-adf0-e3b46ac571d0)
+**Closed form** -  an expression or equation is in closed form if it is formed with constants, variables and a finite set of basic functions connected by arithmetic operations (+, −, ×, /, and integer powers) and function composition. Commonly, the allowed functions are nth root, exponential function, logarithm, and trigonometric functions.  
+  ![image](https://github.com/user-attachments/assets/c5026161-8072-42ab-9456-ddfbb15623fd)  
+ ![image](https://github.com/user-attachments/assets/f98c8c51-2338-49a5-ba83-8a60493d4e71)
+
+
+- **Scientific notations** - The base should be always 10.  
+  ![image](https://github.com/user-attachments/assets/5052e805-f55c-4aee-941f-0c0718a64594)
+  ![image](https://github.com/user-attachments/assets/2ad8c7f6-6941-4bc6-ad26-133400d58a35)
+
+
+  
+- (optionally good to know), logarithms and trigonometric functions
 
 -------------
 
