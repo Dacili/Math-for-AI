@@ -1,4 +1,5 @@
-# Math for AI
+# Math for AI  
+https://www.freecodecamp.org/news/all-the-math-you-need-in-artificial-intelligence/   
 > In order to be a good with AI, you gotta be good with some specific branches of math.
 
 > Repetitio est mater studiorum (lat.) Repetition is the mother of all learning.
