@@ -39,16 +39,19 @@ Rules:
   ![image](https://github.com/user-attachments/assets/2ad8c7f6-6941-4bc6-ad26-133400d58a35)
 
 
-  
-- (optionally good to know), **logarithms**  
+  Other things to remind yourself (not so crucial):
+- **logarithms**  
 ![image](https://github.com/user-attachments/assets/102e60ac-fd63-41c4-8a5f-80adafd2ec4c)  
 
- and **trigonometric functions**  
+ - **trigonometric functions**  
  trigonometric table:  
  ![image](https://github.com/user-attachments/assets/4c44723d-9ed1-4e0c-9ab0-fca361e4f513)   
  trigonometric graphs:  
  ![image](https://github.com/user-attachments/assets/d7cd6370-ec71-4728-aa28-8432947b7f5c)
-
+- formulas for square, ...  
+![image](https://github.com/user-attachments/assets/2c79baa9-b5c6-4345-bd5e-6fc775d6fd64)
+- quadratic equation  
+  ![image](https://github.com/user-attachments/assets/e97eb9e0-d85f-4f2a-a277-40b2a3e59fd4)
 
 
 -------------
