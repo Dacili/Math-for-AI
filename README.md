@@ -39,7 +39,7 @@ Rules:
   ![image](https://github.com/user-attachments/assets/2ad8c7f6-6941-4bc6-ad26-133400d58a35)
 
 
-  Other things to remind yourself (not so crucial):
+  Other things to remind yourself:
 - **logarithms**  
 ![image](https://github.com/user-attachments/assets/102e60ac-fd63-41c4-8a5f-80adafd2ec4c)  
 
