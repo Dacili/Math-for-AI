@@ -59,7 +59,7 @@ Rules:
 ### 2. Linear Algebra
 - **Matrix operations** -
 - **Vector spaces** -
-- **Linear transformation** -
+- **Linear transformation** -  
   cool course:  
   https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 
