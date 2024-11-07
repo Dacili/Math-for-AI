@@ -57,14 +57,55 @@ Rules:
 -------------
 
 ### 2. Linear Algebra
+- **Matrix operations** -
+- **Vector spaces** -
+- **Linear transformation** -
+  https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+
+**Scalars** — a single number (can be real or natural).  
+**Vectors** — a list of numbers, arranged in order. Consider them as points in space with each element representing the coordinate along an axis.  
+**Matrices** — a 2-D array of numbers where each number is identified by 2 indices.  
+**Tensors** — an N-D array (N>2) of numbers, arranged on a regular grid with N-axes. Important in Machine Learning, Deep Learning and Computer Vision.  
+**Eigenvectors & Eigenvalues** — special vectors and their corresponding scalar quantity. Understand the significance and how to find them.  
+**Singular Value Decomposition** — factorization of a matrix into 3 matrices. Understand the properties and applications.  
+**Principal Component Analysis (PCA)** — understand the significance, properties, and applications.  
+Properties such as the **Dot product**, **Vector product** and the **Hadamard product** are useful to know as well.  
 
 -------------
 ### 3. Calculus
+- **Derivatives** - 
+- **Integrals** -
+- **Fundamental theorems** -
+  https://www.khanacademy.org/math/calculus-1/cs1-limits-and-continuity
+
+
+**Derivatives** — rules (addition, product, chain rule, and so on), hyperbolic derivatives (tanh, cosh, and so on) and partial derivatives.  
+**Vector/Matrix Calculus** — different derivative operators (Gradient, Jacobian, Hessian and Laplacian)  
+**Gradient Algorithms** — local/global maxima and minima, saddle points, convex functions, batches and mini-batches, stochastic gradient descent, and performance comparison.  
 
 -------------
 ### 4. Statistics & Probability
+- **Counting** -
+- **Random variables** -
+- **Distributions** -
+- **Limit theorem** -
+- **Linear regression** -
+- **Classification** -
+- **Tree-based methods** -
+
+**Basic Statistics** — Mean, median, mode, variance, covariance, and so on.  
+**Basic rules in probability** — events (dependent and independent), sample spaces, conditional probability.  
+**Random variables** — continuous and discrete, expectation, variance, distributions (joint and conditional).  
+**Bayes’ Theorem** — calculates validity of beliefs. Bayesian software helps machines recognize patterns and make decisions.  
+**Maximum Likelihood Estimation (MLE)** — parameter estimation. Requires knowledge of fundamental probability concepts (joint probability and independence of events).  
+**Common Distributions** — binomial, poisson, bernoulli, gaussian, exponential.  
 
 -------------
 ### 5. Information Theory
+**Entropy** — also called Shannon Entropy. Used to measure the uncertainty in an experiment.  
+**Cross-Entropy** — compares two probability distributions and tells us how similar they are.  
+**Kullback Leibler Divergence** — another measure of how similar two probability distributions are.  
+**Viterbi Algorithm** — widely used in Natural Language Processing (NLP) and Speech.  
+**Encoder-Decoder** — used in Machine Translation RNNs and other models.  
 
 -------------
