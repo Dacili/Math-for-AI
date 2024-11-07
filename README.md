@@ -60,6 +60,7 @@ Rules:
 - **Matrix operations** -
 - **Vector spaces** -
 - **Linear transformation** -
+  cool course:  
   https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 
 **Scalars** — a single number (can be real or natural).  
